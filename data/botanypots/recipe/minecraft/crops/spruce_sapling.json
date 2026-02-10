@@ -1,0 +1,35 @@
+{
+  "type": "botanypots:crop",
+  "input": {
+    "item": "minecraft:spruce_sapling"
+  },
+  "soil": {
+    "tag": "botanypots:soil/dirt"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "minecraft:spruce_sapling"
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "minecraft:spruce_sapling"
+          },
+          "chance": 0.50
+        },
+        {
+          "result": {
+            "id": "minecraft:spruce_log"
+          },
+          "chance": 0.90,
+          "minRolls": 1,
+          "maxRolls": 3
+        }
+      ]
+    }
+  ]
+}

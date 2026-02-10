@@ -1,0 +1,35 @@
+{
+  "type": "botanypots:crop",
+  "input": {
+    "item": "minecraft:mangrove_propagule"
+  },
+  "soil": {
+    "tag": "botanypots:soil/dirt"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "minecraft:mangrove_propagule"
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "minecraft:mangrove_propagule"
+          },
+          "chance": 0.50
+        },
+        {
+          "result": {
+            "id": "minecraft:mangrove_log"
+          },
+          "chance": 0.90,
+          "minRolls": 1,
+          "maxRolls": 3
+        }
+      ]
+    }
+  ]
+}

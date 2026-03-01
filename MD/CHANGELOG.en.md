@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2026-02-10
 
 ### Added
-- Initial release of BotanyPots Tree datapack
+- Initial release of BotanyPots Trees datapack
 - Oak sapling recipe
 - Birch sapling recipe
 - Spruce sapling recipe

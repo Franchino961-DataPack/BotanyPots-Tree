@@ -8,7 +8,7 @@ e questo progetto rispetta il [Versionamento Semantico](https://semver.org/spec/
 ## [1.0.0] - 2026-02-10
 
 ### Aggiunto
-- Prima versione del datapack BotanyPots Tree
+- Prima versione del datapack BotanyPots Trees
 - Ricetta per l'alberello di quercia
 - Ricetta per l'alberello di betulla
 - Ricetta per l'alberello di abete

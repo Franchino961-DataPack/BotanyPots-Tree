@@ -3,7 +3,7 @@
 A Minecraft datapack that adds tree sapling recipes for the BotanyPots mod.
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
-[![it](https://img.shields.io/badge/lang-it-green.svg)](README.it.md)
+[![it](https://img.shields.io/badge/lang-it-green.svg)](MD/README.it.md)
 
 ## 📋 Description
 
@@ -28,7 +28,7 @@ This datapack provides custom recipes for growing various tree saplings in Botan
 
 ## 📦 Requirements
 
-- **Minecraft**: 1.19+ (or compatible version)
+- **Minecraft**: 1.21.4+ (or compatible version)
 - **BotanyPots Mod**: Required for the datapack to function
 - **Forge/Fabric**: Depending on your BotanyPots version
 
@@ -78,7 +78,7 @@ Contributions are welcome! Feel free to:
 
 ## 📝 Changelog
 
-See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
+See [CHANGELOG.en.md](MD/CHANGELOG.en.md) for version history and updates.
 
 ## 💬 Support
 

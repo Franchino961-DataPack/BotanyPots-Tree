@@ -62,7 +62,7 @@ Parametri che puoi modificare:
 
 ## 📄 Licenza
 
-Questo progetto è rilasciato sotto licenza MIT - vedi il file [LICENSE](LICENSE) per i dettagli.
+Questo progetto è rilasciato sotto licenza MIT - vedi il file [LICENSE](../LICENSE) per i dettagli.
 
 ## 🤝 Contribuire
 

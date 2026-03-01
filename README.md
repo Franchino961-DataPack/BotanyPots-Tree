@@ -1,4 +1,4 @@
-# BotanyPots Tree
+# BotanyPots Trees
 
 A Minecraft datapack that adds tree sapling recipes for the BotanyPots mod.
 

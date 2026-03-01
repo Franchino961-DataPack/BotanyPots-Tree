@@ -1,4 +1,4 @@
-# BotanyPots Tree
+# BotanyPots Trees
 
 Un datapack per Minecraft che aggiunge ricette per alberelli compatibili con la mod BotanyPots.
 

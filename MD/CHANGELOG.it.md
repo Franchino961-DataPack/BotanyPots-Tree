@@ -5,6 +5,15 @@ Tutte le modifiche rilevanti a questo progetto saranno documentate in questo fil
 Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 e questo progetto rispetta il [Versionamento Semantico](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2026-03-01
+
+### Aggiunto
+- Immagine icona per BotanyPots Trees
+
+### Corretto
+- Corretto il percorso del link LICENSE nel file README.it.md italiano
+- Corretto il nome del repository da "BotanyPots Tree" a "BotanyPots Trees" in README.md e CHANGELOG.en.md
+
 ## [1.0.0] - 2026-02-10
 
 ### Aggiunto
@@ -45,4 +54,5 @@ e questo progetto rispetta il [Versionamento Semantico](https://semver.org/spec/
   - **Minore**: Nuove funzionalità, compatibili con versioni precedenti
   - **Patch**: Correzioni di bug e piccoli miglioramenti
 
-[1.0.0]: https://github.com/yourusername/botanypots-tree/releases/tag/v1.0.0
+[1.0.1]: https://github.com/yourusername/botanypots-trees/releases/tag/v1.0.1
+[1.0.0]: https://github.com/yourusername/botanypots-trees/releases/tag/v1.0.0

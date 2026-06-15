@@ -106,10 +106,6 @@ Se riscontri problemi o hai domande:
 - [Mod BotanyPots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 - [Wiki di Minecraft - Alberi](https://minecraft.fandom.com/wiki/Tree)
 
-## 📝 Changelog
-
-Vedi [CHANGELOG.it.md](CHANGELOG.it.md) per la cronologia completa delle versioni.
-
 ---
 
-> ⚠️ **Nota**: Questo datapack richiede l'installazione della mod BotanyPots. Non funzionerà in Minecraft vanilla.
+> ⚠️ **Nota**: Questo datapack richiede l'installazione della mod BotanyPots. Non funzionerà in Minecraft vanilla.

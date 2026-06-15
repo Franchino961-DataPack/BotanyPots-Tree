@@ -1,0 +1,19 @@
+# ── Comportamento di default ──────────────────────────────────────────────────
+# Normalizza i line ending a LF su tutti i sistemi (evita diff spuri Windows/Mac/Linux)
+* text=auto eol=lf
+
+# ── Datapack files ────────────────────────────────────────────────────────────
+*.json       text eol=lf
+*.mcfunction text eol=lf
+*.mcmeta     text eol=lf
+
+# ── Documentazione ────────────────────────────────────────────────────────────
+*.md         text eol=lf
+*.txt        text eol=lf
+
+# ── Binari — non toccare i line ending ────────────────────────────────────────
+*.png        binary
+*.jpg        binary
+*.jpeg       binary
+*.gif        binary
+*.zip        binary
